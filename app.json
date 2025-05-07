@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Bolt Finance",
-    "slug": "bolt-expo-finance",
+    "name": "Finance Tracker",
+    "slug": "expo-finance",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,14 +10,14 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.test.boltfinance"
+      "bundleIdentifier": "com.kpmrafeeq.finance"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.test.boltfinance"
+      "package": "com.kpmrafeeq.finance"
     },
     "web": {
       "bundler": "metro",
